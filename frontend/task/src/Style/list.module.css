@@ -1,0 +1,36 @@
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  font-size: 24px;
+  padding-right: 66px;
+  margin: 13px;
+  color: white;
+  background-color: #662671;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.item:hover {
+  background-color:
+    #FFF8B7;
+}
+.containerP {
+  width: 800px;
+  position: relative;
+  left: 350px;
+  bottom: 600px;
+  margin-left: 100px;
+
+}
+.containerI {
+  width: 200px;
+  height: 42px;
+  border-radius: 5px;
+}
